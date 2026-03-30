@@ -64,7 +64,7 @@ Zenith, gizliliğinizi en üst düzeyde tutar:
 ## 📸 Ekran Görüntüleri (Screenshots)
 
 <p align="center">
-  <img src="image.png" alt="Zenith UI">
+  <img src="image.png" alt="Zenith UI" width="400" >
 </p>
 
 ---
