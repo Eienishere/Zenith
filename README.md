@@ -1,4 +1,5 @@
-# 🌌 Zenith — Browser Extension Password Generator
+# 🌌 Zenith — Simple Browser Extension Password Generator  ~Beta version !
+
 
 <p align="center">
   <img src="icon.png" width="96" height="96" alt="Zenith Logo">
