@@ -1,4 +1,4 @@
-# 🌌 Zenith — Browser Extension Password Generator
+# 🌌 Zenith — Simple Browser Extension Password Generator
 
 <p align="center">
   <a href="#english">🇬🇧 English</a> | <a href="#türkçe">🇹🇷 Türkçe</a>
