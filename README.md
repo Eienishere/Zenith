@@ -1,11 +1,7 @@
 # 🌌 Zenith — Browser Extension Password Generator
 
 <p align="center">
-  <img src="icon.png" width="96" height="96" alt="Zenith Logo">
-</p>
-
-<p align="center">
-  <a href="#english">🇬🇧 Click for English</a> | <a href="#türkçe">🇹🇷 Türkçe için tıklayın</a>
+  <a href="#english">🇬🇧 English</a> | <a href="#türkçe">🇹🇷 Türkçe</a>
 </p>
 
 ---
